@@ -1,0 +1,14 @@
+
+Here we will add details for project
+
+For Aryman and Arjun (Software)
+1) Creating Dataset
+2) Make a model which gives some classification ( accident, traffic congestion, Construction work PWD)
+
+
+For Varun and Ullas (Hardware)
+1) Communication between two USRP 
+
+
+
+
